@@ -1,0 +1,2 @@
+# FuckDocker
+Undockerize
